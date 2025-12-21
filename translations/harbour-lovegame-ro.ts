@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Acknowledgments</source>
-        <translation>Realizari</translation>
+        <translation>Aprecieri</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Uyghur</source>
-        <translation type="unfinished"></translation>
+        <translation>uigur</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
@@ -77,7 +77,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="126"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="132"/>
@@ -97,7 +97,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Sârbă</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="160"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="172"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Română</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="178"/>
@@ -117,7 +117,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="185"/>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>portugheză</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="196"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Persian</source>
-        <translation type="unfinished"></translation>
+        <translation>Persană</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
@@ -137,12 +137,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="215"/>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Malaieză</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="221"/>
         <source>Lithuanian</source>
-        <translation>lituanian</translation>
+        <translation>lituaniana</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="227"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="333"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabă</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="351"/>
