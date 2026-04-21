@@ -27,7 +27,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alla frågor och instruktioner kopieras från Aron et al. (1997: 374f) och har endast anpassats något för detta spel.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Persian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Persiska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="215"/>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Malajiska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="221"/>
@@ -207,17 +207,17 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="333"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabiska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="351"/>
         <source>Allow skipping timers</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåt att hoppa över timer</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="52"/>
         <source>Text of the 36 questions</source>
-        <translation type="unfinished"></translation>
+        <translation>Text för de 36 frågorna</translation>
     </message>
 </context>
 <context>
@@ -256,27 +256,27 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu kör vi!</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta spel handlar om att komma närmare en annan person igenom att dela med sig.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
         <source>You will be given 36 tasks. One of you should read one aloud, and then &lt;b&gt;both&lt;/b&gt; do what it asks, starting with the person who read the task aloud.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni kommer att få 36 uppgifter. En av er ska läsa högt, och sedan skall &lt;b&gt;båda&lt;/b&gt; göra det som frågas, börja med den personen som läser uppgiften högt.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs varannan fråga, turas om med din spelpartner. Om den ställer dig en fråga, dela med dig av ditt svar, och låt sedan dem dela mig sig av sitt svar. Om det är en uppgift, gör den först, och låt sedan din partner göra det.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
         <source>Take plenty of time with each item, doing what it asks thoroughly and thoughtfully - but &lt;b&gt;do not skip&lt;/b&gt; any item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta gott om tid för varje uppgift, att göra vad som står noggrant och igenomtänkt - but &lt;b&gt;hoppa inte över&lt;/b&gt; något.</translation>
     </message>
 </context>
 <context>
@@ -558,7 +558,7 @@
         <location filename="../qml/pages/QuestionPage.qml" line="191"/>
         <location filename="../qml/pages/QuestionPage.qml" line="208"/>
         <source>Start timer</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta timer</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="63"/>
@@ -619,12 +619,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du vaknade imorgon och hade kunnat få en ny kunskap eller förmåga, vad skulle det vara?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="58"/>
         <source>If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om en kristallkula kunde berätta sanningen om dig själv för dig, ditt liv, framtiden eller vad som helst - vad hade du då velat få veta?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="69"/>
@@ -652,7 +652,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="71"/>
         <source>Make three true “we” statements each. For instance, “We are both in this room feeling ...”</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör tre sanna &quot;vi&quot;-påståenden var. Till exempel: &quot;Vi är båda i detta rum och känner...&quot;</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="84"/>
