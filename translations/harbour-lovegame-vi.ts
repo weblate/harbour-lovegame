@@ -17,47 +17,47 @@
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Phông nền</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
         <source>Article (PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bài viết (PDF)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tất cả câu hỏi và hướng dẫn đã được chép từ Aron et al. (1997: 374f) và chỉ chỉnh nhẹ cho trò chơi này.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ứng dụng này đã được mô phỏng theo Love Game dành cho Android bởi Anuraag Yachamaneni.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation type="unfinished"></translation>
+        <translation>Game này theo Aron và cộng sự (1997, PSPB 23/4).</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhà phát triển</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Lập trình</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="94"/>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Thiết kế Icon</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="102"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bản dịch</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
