@@ -62,7 +62,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Uyghur</source>
-        <translation type="unfinished"></translation>
+        <translation>الأويغور</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Persian</source>
-        <translation type="unfinished"></translation>
+        <translation>فارسي</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="215"/>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>الملايوة</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="221"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="333"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>العربية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="351"/>
@@ -413,9 +413,9 @@
             <numerusform>صفر</numerusform>
             <numerusform>واحد</numerusform>
             <numerusform>اثنين</numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>بضع</numerusform>
+            <numerusform>كثير</numerusform>
+            <numerusform>غير</numerusform>
         </translation>
     </message>
     <message>
@@ -456,13 +456,13 @@
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="136"/>
         <source>show license(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>صفر</numerusform>
+            <numerusform>واحد</numerusform>
+            <numerusform>اثنين</numerusform>
+            <numerusform>بضع</numerusform>
+            <numerusform>كثير</numerusform>
+            <numerusform>غيؤ</numerusform>
         </translation>
     </message>
     <message>
@@ -492,7 +492,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="7"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>إذا أحببت دعم عملي، يمكنك شراء فنجان قهوة لي</translation>
+        <translation>إذا أحببت دعم عملي، يمكنك شراء فنجان قهوة لي.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="8"/>
@@ -515,12 +515,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
         <source>Copy text to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>انسخ النص إلى الحافظة</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="55"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>مشاركة</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
@@ -540,7 +540,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="15"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>مشاركة الرابط</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="50"/>
@@ -577,7 +577,7 @@
         <location filename="../qml/pages/QuestionPage.qml" line="88"/>
         <source>Have a pleasant day!</source>
         <comment>translate as plural as two people are addressed</comment>
-        <translation>نتمنى لك يومًا سعيدًا.</translation>
+        <translation>نتمنى لك يومًا سعيدًا!</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="163"/>
@@ -649,7 +649,7 @@
         <location filename="../qml/harbour-lovegame.qml" line="57"/>
         <source>II.</source>
         <comment>as in &quot;2nd chapter&quot;</comment>
-        <translation>اهلا كيف حالك</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="70"/>
@@ -680,152 +680,152 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="47"/>
         <source>Before making a telephone call, do you ever rehearse what you are going to say? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>قبل بدء مكالمة هاتفية, هل تتدرب على ما تريد قوله؟ لماذا؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="48"/>
         <source>What would constitute a “perfect” day for you?</source>
-        <translation type="unfinished"></translation>
+        <translation>ما الذي يشكل يوما &quot;مثاليا&quot; لك؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="49"/>
         <source>When did you last sing to yourself? To someone else?</source>
-        <translation type="unfinished"></translation>
+        <translation>متى كانت آخر مرة قمت فيها بالغناء من أجل نفسك؟ أو من أجل شخص آخر؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="50"/>
         <source>If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</source>
-        <translation type="unfinished"></translation>
+        <translation>اذا استطعت العيش لعمر 90 عاما والمحافظة على عقلك أو جسدك عندما مان عمرك 30 عاما لآخر 60 عاما من حياتك, ماذا ستختار؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="51"/>
         <source>Do you have a secret hunch about how you will die?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل لديك احساس بالطريقة التي ستموت فيها؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="52"/>
         <source>Name three things you and your partner appear to have in common.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد ثلاثة صفات تتشاركها أنت وشريكك.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="53"/>
         <source>For what in your life do you feel most grateful?</source>
-        <translation>hi</translation>
+        <translation>ما أكثر شئ ممتن لأجله في حياتك؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="54"/>
         <source>If you could change anything about the way you were raised, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>لو كان بإمكانك تغيير أي شيء في طريقة تربيتك، فماذا سيكون؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="55"/>
         <source>Take four minutes and tell your partner your life story in as much detail as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>خذ دقيقة وأخبر شريكك قصة حياتك بأكبر قدر ممكن من التفصيل.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="59"/>
         <source>Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل هناك شيء حلمت بفعله لفترة طويلة؟ لماذا لم تفعله؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="60"/>
         <source>What is the greatest accomplishment of your life?</source>
-        <translation type="unfinished"></translation>
+        <translation>ما هو أعظم انجازاتك بالحياة؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="61"/>
         <source>What do you value most in a friendship?</source>
-        <translation type="unfinished"></translation>
+        <translation>ما هو أهم شئ في علاقاتك مع الأصدقاء؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="62"/>
         <source>What is your most treasured memory?</source>
-        <translation type="unfinished"></translation>
+        <translation>ما هي أغلى ذكرياتك؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="63"/>
         <source>What is your most terrible memory?</source>
-        <translation type="unfinished"></translation>
+        <translation>ما هي أسوأ ذكرياتك؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="64"/>
         <source>If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>اذا علمت أنك ستموت خلال عام فجأة, هل ستقوم بتغيير شئ في حياتك؟ لماذا؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="65"/>
         <source>What does friendship mean to you?</source>
-        <translation type="unfinished"></translation>
+        <translation>ما معنى الصداقة بالنسبة لك؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="66"/>
         <source>What roles do love and affection play in your life?</source>
-        <translation type="unfinished"></translation>
+        <translation>ما الدور الذي يلعبه الحب والعاطفة في حياتك؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="67"/>
         <source>Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</source>
-        <translation type="unfinished"></translation>
+        <translation>شارك بالتناوب صفات تعتبرها إيجابية في شريكك. شارك خمسة أشياء في المجموع.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="68"/>
         <source>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</source>
-        <translation type="unfinished"></translation>
+        <translation>ما مجى القرب والدفء الذي تشعر به اتجاه عائلتك؟ وهل تعتقد أن طفولتك كانت أسعد من معظم الأشخاص الآخرين؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="72"/>
         <source>Complete this sentence: “I wish I had someone with whom I could share ...”</source>
-        <translation type="unfinished"></translation>
+        <translation>أكمل هذه الجملة: &quot;أتمنى لو كان لدي شخص أستطيع أن أشارك معه ...&quot;</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="73"/>
         <source>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا كنت ستصبح صديقًا مقربًا لشريكك، فيرجى مشاركة ما سيكون من المهم أن يعرفه هو أو هي.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
-        <translation type="unfinished"></translation>
+        <translation>أخبر شريكك بما يعجبك فيه؛ كن صادقًا جدًا هذه المرة، وقل أشياء قد لا تقولها لشخص قابلته للتو.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="75"/>
         <source>Share with your partner an embarrassing moment in your life.</source>
-        <translation type="unfinished"></translation>
+        <translation>شارك مع شريكك ذكرى محرجة من حياتك.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="76"/>
         <source>When did you last cry in front of another person? By yourself?</source>
-        <translation type="unfinished"></translation>
+        <translation>متى بكيت آخر مرة أمام شخص آخر؟ أو لوحدك؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="74"/>
         <source>Tell your partner something that you like about them already.</source>
-        <translation type="unfinished"></translation>
+        <translation>أخبر شريكك بأمر يعجبك فيه بالفعل.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="78"/>
         <source>What, if anything, is too serious to be joked about?</source>
-        <translation type="unfinished"></translation>
+        <translation>ما هو الشيء الذي لا يمكن المزاح بشأنه، إن وجد؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="79"/>
         <source>If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</source>
-        <translation type="unfinished"></translation>
+        <translation>لو متّ هذا المساء دون أن تتاح لك فرصة التواصل مع أحد، فما أكثر شيء ستندم لعدم إخبارك به لأحد؟ ولماذا لم تخبره به حتى الآن؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="80"/>
         <source>Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>يشتعل منزلك، الذي يحتوي على كل ما تملك، في حريق. بعد إنقاذ أحبائك وحيواناتك الأليفة، لديك متسع من الوقت للقيام باندفاع أخير لإنقاذ غرض واحد. ما هو؟ ولماذا؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="81"/>
         <source>Of all the people in your family, whose death would you find most disturbing? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>من بين جميع أفراد عائلتك، من هو الشخص الذي ستجد وفاته الأكثر إزعاجاً؟ ولماذا؟</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="82"/>
         <source>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</source>
-        <translation type="unfinished"></translation>
+        <translation>شارك شريكك مشكلة شخصية واطلب نصيحته حول كيفية التعامل معها. واطلب منه أيضاً أن يعكس لك مشاعرك تجاه المشكلة التي اخترتها.</translation>
     </message>
 </context>
 </TS>
