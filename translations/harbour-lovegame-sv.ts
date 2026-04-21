@@ -797,7 +797,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="78"/>
         <source>What, if anything, is too serious to be joked about?</source>
-        <translation>Vad, om något, är för allvarligt att skämta om?</translation>
+        <translation>Vad (om något) är för allvarligt att skämta om?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="79"/>
