@@ -762,7 +762,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="68"/>
         <source>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</source>
-        <translation>Hur nära och hjärtligt varm är din familj? Känner du att din barndom var lyckligare än de flesta andra?</translation>
+        <translation>Hur nära och varm är din familj? Känner du att din barndom var bättre än de flesta andras?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="72"/>
@@ -772,7 +772,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="73"/>
         <source>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</source>
-        <translation>Om du vill bli en nära vän med din partner, dela erfarenheter och tankar samt intressera dig i vad som är viktigt för honom eller henne.</translation>
+        <translation>Om du skulle bli nära vän med din partner, vad skulle vara viktigt för hen att veta?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="77"/>
@@ -817,7 +817,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="82"/>
         <source>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</source>
-        <translation>Dela ett personligt dilemma och fråga din partner om råd om hur han eller hon skulle hantera det. Fråga också din partner att återkoppla hur du uppfattas känna angående problemet du har valt.</translation>
+        <translation>Dela med dig av ett personligt problem och be din partner om råd om hur hen skulle hantera det. Be även din partner att reflektera hur hen tror du känner dig angående problemet.</translation>
     </message>
 </context>
 </TS>
