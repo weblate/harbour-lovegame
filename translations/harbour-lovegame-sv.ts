@@ -27,7 +27,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished">Alla frågor och instruktioner kopieras från Aron et al. (1997: 374f) och har endast anpassats något för detta spel.</translation>
+        <translation>Alla frågor och instruktioner kopieras från Aron et al. (1997: 374f) och har endast anpassats något för detta spel.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
@@ -762,7 +762,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="68"/>
         <source>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hur nära och hjärtligt varm är din familj? Känner du att din barndom var lyckligare än de flesta andra?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="72"/>
@@ -772,7 +772,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="73"/>
         <source>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du vill bli en nära vän med din partner, dela erfarenheter och tankar samt intressera dig i vad som är viktigt för honom eller henne.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="77"/>
@@ -797,7 +797,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="78"/>
         <source>What, if anything, is too serious to be joked about?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vad, om något, är för allvarligt att skämta om?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="79"/>
@@ -817,7 +817,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="82"/>
         <source>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela ett personligt dilemma och fråga din partner om råd om hur han eller hon skulle hantera det. Fråga också din partner att återkoppla hur du uppfattas känna angående problemet du har valt.</translation>
     </message>
 </context>
 </TS>
