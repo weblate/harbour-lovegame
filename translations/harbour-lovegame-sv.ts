@@ -62,7 +62,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Uyghur</source>
-        <translation type="unfinished"></translation>
+        <translation>Uiguriska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Persian</source>
-        <translation type="unfinished">Persiska</translation>
+        <translation>Persiska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
@@ -687,7 +687,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="50"/>
         <source>If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du kunde leva tills 90 års ålder och antingen behålla sinnet eller kroppen av en 30-åring de sista 60 åren av ditt liv, vad skulle du välja?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="51"/>
@@ -717,7 +717,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="59"/>
         <source>Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är det något du länge drömt om att kunna göra? Varför har du inte gjort det?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="60"/>
@@ -742,7 +742,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="64"/>
         <source>If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du visste att du plötsligt skulle dö om ett år, hade du ändrat hur du lever nu? Varför?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="65"/>
@@ -757,7 +757,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="67"/>
         <source>Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Turas om att dela med er av något som ni ser som en positiv egenskap med din partner. Dela med er 5 saker totalt.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="68"/>
@@ -777,7 +777,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
-        <translation type="unfinished"></translation>
+        <translation>Berätta för din partner vad du gillar om hen; var väldigt ärlig den här gången och säg saker du kanske inte skulle säga till någon du precis mött.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="75"/>
@@ -802,12 +802,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="79"/>
         <source>If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du hade dött ikväll utan möjligheten att prata med någon, vad hade du ångrat mest att du inte sagt till någon? Varför har du inte sagt det till hen än?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="80"/>
         <source>Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ditt hus som innehåller allt du äger börjar brinna. Efter att du räddat dina nära och kära och husdjur har du tid att springa in och rädda en sak utan att bli skadad. Vad skulle det vara? Varför?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="81"/>
